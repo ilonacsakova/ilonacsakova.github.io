@@ -1,1 +1,9 @@
-"Hi Mark" 
+header {
+font-size: 100px;
+}
+
+footer {
+color: white;
+background-color: black;
+text-align: center;
+}
